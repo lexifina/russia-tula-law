@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Тульской области «О бюджете территориального фонда обязательного медицинского страхования Тульской области на 2021 год и на плановый период 2022 и 2023 годов"
+Document type: Закон
+Number: 83-ЗТО
+Date signed: 2021-07-20
+Publication date: 2021-07-21
+Publication number: 7100202107210014
+Signing body: Тульская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/7100202107210014
