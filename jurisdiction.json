@@ -1,0 +1,11 @@
+{
+  "path": "ru-tul",
+  "code": "RU-TUL",
+  "name": "Tula Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-tula-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}

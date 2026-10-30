@@ -1,0 +1,1231 @@
+{
+ "country": "RU-TUL",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Tula Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "806fb224f7b914264227328b2cbabbf0639c53f34a6a7d1db36e2583b6c2fc69"
+    },
+    {
+     "from": "2014-12-03",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "72b83718bc8b080b2529e10b5e7c59bf087871a2e844fb57ceea3ebd4cadd0a3"
+    },
+    {
+     "from": "2014-12-09",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f4cc9783ba900ae069651b15d578f5be99d37eb50d56364035648b1a4419142f"
+    },
+    {
+     "from": "2014-12-10",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "38d512b972c61beb72ce6ab5bd5fe352f960b084bc900713a7f5282480896df9"
+    },
+    {
+     "from": "2014-12-29",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4bb3bf2c70ff7a883b3811e9afa15ea4a6193c3ba31470da64d1bb1881fd135c"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "416db08452ab3899590ec5451379f97be89bfad2aa3be1cc7b4910ac5a942c7a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Tula Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2015-02-05",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6957ea6c434304bf5979b3e0c2ce830cd69ff0be4aa72602b91890c763158bf7"
+    },
+    {
+     "from": "2015-02-06",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f410e36ad206ea717b956074baa0417d4212462bbbd78d8b566a5807c3ad58d6"
+    },
+    {
+     "from": "2015-03-02",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b075470724ffdd768df67850da65ef0382d11805bef48ee5bbaf905929734558"
+    },
+    {
+     "from": "2015-03-03",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8cc61b3ee9cb380f5ae70c2947a3da088f3c539951d1111228c4c1d6754d75dc"
+    },
+    {
+     "from": "2015-03-06",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c36e0521b4cf932988df925939276b7df853d1aa2c66a3c08e6561929156f30a"
+    },
+    {
+     "from": "2015-03-16",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f2b3d7f24939432343f46087daf211d015f15106eabe50264a349bc5fb021fc5"
+    },
+    {
+     "from": "2015-03-31",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c74cba4a419c2019ccb09c469fe36570fdc30be86dfe31daca155204fd275f82"
+    },
+    {
+     "from": "2015-04-27",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9606a57ab0b0ceffdbb5f0feb190f83b04ab555c548592c0e07dfd2f6b597801"
+    },
+    {
+     "from": "2015-05-20",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "36004a89424661a5a82bfb4c9c528ffb8861cb4e51827d767b6d13366fedcbac"
+    },
+    {
+     "from": "2015-06-03",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "91e32a67c24b629b31c70a7fac1065280a308c7e04714173854c86ec207d0a7e"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5c9b9efb8c433300fb4216211d976376c0ea4bb2adccb913a42b56c86c0a5015"
+    },
+    {
+     "from": "2015-07-17",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "caca40f94fcf6fdceb429194a899d762cfaf6a8a932b14983edfddc5688dab14"
+    },
+    {
+     "from": "2015-07-20",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ed625b76de66b4cbe2df6a2379bba4f5008ae8cb2190c705a14e9f255e523807"
+    },
+    {
+     "from": "2015-10-02",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4d2f0ab217e50e37a105166c290297526d00c2eddfd6f40a32eb6ba9d04bcebe"
+    },
+    {
+     "from": "2015-10-28",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4243e2b8220703c3ec1a0f4eecab09bdeda6cf1022dfbbf362051d2c63e7a8c8"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b785773f8fcc1197a149280a2dd44d5374b4002a41db4123b62bc513597e33ab"
+    },
+    {
+     "from": "2015-12-15",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "699f6b32f2009a72a0deefd0559fb842aebec6df01f2196105a404440ff69561"
+    },
+    {
+     "from": "2015-12-18",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "84a3f3ce78e517fd633c3990cf6b72eb8fd15ccbcd9170a3229cc4e1b40db3a8"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 155,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e76562293657855926489610586412325036cafff149c23b80def625d7c8d303"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Tula Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7fec91af3a89a82434d869a1ba62e1e526a5281754a6870f3485f6557016faf5"
+    },
+    {
+     "from": "2016-03-03",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8ae63f442780b64c1025d7081c424ad3e3781dcfcaf001fe3d6913fe49569b76"
+    },
+    {
+     "from": "2016-04-04",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "149a468abfabcd06affe070bc6a9f7d8eba55331fdc52195e5355b1cecd764ca"
+    },
+    {
+     "from": "2016-05-04",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9cd7b933961b86f60ed40ee8ebab05dc31e806dfa7807e4370c70ea980097345"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "bd92e99e2dd68a2818cb6bfbe0fe541b66b2421156217043e07d6310173623a2"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c5656a7815c248d4a315ee69a664d8e3615b5d0f2c7046361a9af388db69a9ee"
+    },
+    {
+     "from": "2016-07-05",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c3068bc3f33fe4c9dd4cc4f8561709d0392cb21256bc0639c52571c393898570"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "52205a3930289bb013ad4f5a68021cec226755a5d219965c4a62159a3f63b46c"
+    },
+    {
+     "from": "2016-07-21",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "08c1a6615039d1ea6132abee4cf41307d0265c535d7d469911ae33fa85722586"
+    },
+    {
+     "from": "2016-10-05",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5386880392bd684f78c25265332ba9f3ed2abbe1b1be2d03f5604481045401f7"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "d973547c5344e2dcc73bcc929786450fb8589109f4c7104e599d56692a694f01"
+    },
+    {
+     "from": "2016-11-29",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "efe6eb56a460a221875b5f3eb294ecb6c387e3a2d8f3c9a207c4fba88eedf7c4"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "038f0c856c0f54ec773c4dc8baa90591c0cf5e915a519e1474275c72d6e9e986"
+    },
+    {
+     "from": "2016-12-27",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "99ede71bac4caf04ad93220b2294dd574e434261be9902358445be2d50154867"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Tula Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e94177a156aa4405a586f882b604269d181697fef9b00ef53e5a9e97562365b2"
+    },
+    {
+     "from": "2017-02-28",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "d2b50621f58129a5e5d13074875fa4ead6712f39829e8cec96a526e21a5f9dce"
+    },
+    {
+     "from": "2017-04-04",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "82bd7610c053d0b28a88b1095136d55d9c2c46dae3bb411e24aeaf3bb6ef7ad1"
+    },
+    {
+     "from": "2017-05-03",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8e0a94d10f84bdbaa6c37ce4982c0035c997c7c2ae85d64aea6504a6536c10d0"
+    },
+    {
+     "from": "2017-06-05",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "47ff538d5beaace504fce25e6422745c295b80c2fdf8bf8b189bed4abff0e67a"
+    },
+    {
+     "from": "2017-07-05",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "31d9b45bf5e17fac21e3695aefb02c94e31204b608eacd7f2dcdb947f771fe3f"
+    },
+    {
+     "from": "2017-07-17",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "fd705dc3420834a18de7f33da83cffedb7d2859d729c917100b1fbdb36a8e889"
+    },
+    {
+     "from": "2017-10-03",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "bc996ee8ca3d8fc9cb09787269499c547c7247f376801d4a70a80fc3036e9f2f"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ae634b1b8641c1a02b87eb3f61cab7d25a0385ca3630db7a20e42208de69c7f2"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2d9120d0ef3314f379df151deae58d527f38c962d8da182fc4b09169c86a06d9"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "197b8bba8d4b45cf935ed56cc5e2438a04a9601feb9cafd553d2100d0580b6db"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "a75cd4799c29bdcc4f0e623d6ce93220dea7c13e4d3f5d5d638685dfe81c23e2"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "a63de63cdd5c649ad288103a178cf77f392c8681bd23fac47a73993bcfb0f0ee"
+    },
+    {
+     "from": "2017-12-25",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4cd0e831ff8770c6dbe9587cc0431c6755304bd1d4c5ccbfe0a2f4e346d2e979"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Tula Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e2fef5db12a5ada02025297a227ecd6975c0edb938729639fd9084d67400f1b1"
+    },
+    {
+     "from": "2018-02-27",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "96ec1e4d6df77f0b94dea07f9b2edcb79bb7d1ae6b53f96674302bbf12856fd2"
+    },
+    {
+     "from": "2018-04-03",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "050c8c6bfecfa747f23585e98d6799680461b2e7e8204c7265f0fc69bb036553"
+    },
+    {
+     "from": "2018-04-28",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7e4b9c6ba052444cd1660e43c6b54c0f77f4fae9314d42ebc0489868ced2bb7f"
+    },
+    {
+     "from": "2018-06-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2f2bbfb03d2f436dc08f22da9118fe378512fa381b337a94936cd68320549231"
+    },
+    {
+     "from": "2018-07-04",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "dab84a29b7c2f3f269781537b3a77390fbd4321a842a7733a57fac017294ef64"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "42536af538f0cf2ce7fe7d4a6c62ea3015a9d909e4ed3c78e6e5e69bec9c11f7"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "92dd0173b178305db96fc7d1bc119d38ecc25f70270e05b9a8b913f30ea65dce"
+    },
+    {
+     "from": "2018-10-26",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ef9043f46da8bdf8bb8026ed9b3c7a28cd4eda2133b4be89bd9440b878cb60c7"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e0d04cd3cbecafe2f0ca50b7029931f5f4e120ba0f36684c01dcbc142fc89525"
+    },
+    {
+     "from": "2018-12-26",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b75ddea90360346c24973e5c16235067eeb777c776d2b0a3eeb6213a55705aa2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Tula Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1eea566bfa77495800d9b077195587b3f176039603e44d315d862fa11fbd21be"
+    },
+    {
+     "from": "2019-03-05",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "0c6957e3e68f55bc1ff48b26912c0fc86d2b16ac105baa5c851ac5aaf02b60e6"
+    },
+    {
+     "from": "2019-04-02",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4642ccdb277ff9a4676df9c3b81206c84ec901a208b8bee9cbe2e1332a218247"
+    },
+    {
+     "from": "2019-04-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6a70d25a6e3591dfdd1f5747033e536b8fe4d4d77fb59b4d1e5b17792efb9c6a"
+    },
+    {
+     "from": "2019-06-04",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5cee298ddb4a47cd1e633b205548c4a9707dfb3f69fe3516c2e96e3364a7ccea"
+    },
+    {
+     "from": "2019-07-03",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e6223a16786236ce1bc66da8af7543d2f5eb444e824055ddc1fc097adb02dd3c"
+    },
+    {
+     "from": "2019-07-22",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ce33f24a7ec4cd7dffe810cf6055ee19045c8683380d6f71162a8f9bb6d053ae"
+    },
+    {
+     "from": "2019-09-03",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "461287cb6c923e8e426a2d9cbe1924c9eaff8ccf14e985f86be5d45288b12142"
+    },
+    {
+     "from": "2019-09-16",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "dd92fe024a24290361d0a22c9c9d31555d7ceb09031dd43ccfd241803506d902"
+    },
+    {
+     "from": "2019-10-02",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f4e1d9314c43252acec68a54f2bd149db0d63bc519553557e15de2d278fa16f4"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8930ec5061919cf31cfbe9a33de01c6991c33b63f7ad3d345a60002dbb4178e9"
+    },
+    {
+     "from": "2019-12-02",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6435acfcb05610285ff791b10404788b2b606985ead318614026380ffdd7bb11"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9cc92f55ce8628b1abc5329fb0fb4c6b3c7d964fc6a331b26cec3b99d4c9eeab"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7cf863dedafafd9cdb9f6b331c57ad4ec1c2f5f25688a9246854875996b8bdec"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 150,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5616b6d19388b0a4f943a77c073f587bbc122f612c1d19748b13156c10d65d58"
+    },
+    {
+     "from": "2019-12-17",
+     "units": 152,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "54b2df13fc108163344db1d82988adc5e657a68cb9d5f0d8c2311015a885d433"
+    },
+    {
+     "from": "2019-12-19",
+     "units": 153,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "37c00465916541c2a345ebe4e8e080c63da81b87f429442f5a7c9f29b7ae7003"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Tula Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "d2cc55bb56408183cb21605ea2b4c29a395c63852ebd5264752600ac225fdad7"
+    },
+    {
+     "from": "2020-03-05",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1c5820c60fc4abcce4c4798e16934f17939804a5fea1fcfcbe94333b20ed2862"
+    },
+    {
+     "from": "2020-03-18",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9b07cb1c134ece27340c855caa53e02cba7d983f24e77b5f2bb15c664b4220f1"
+    },
+    {
+     "from": "2020-03-27",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "af9b2128a98232864be6e38bf876d91654b58373c7a32682c23a4c8a78c5155d"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5e1c287c3a0b58fa1cc8835d03ed28fd56e24507120d48269e3aa31f12cb5cbe"
+    },
+    {
+     "from": "2020-04-10",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "19619229040e025af51465f3313c09d12ec4eae7dee059d6a2c46be7548fae89"
+    },
+    {
+     "from": "2020-04-24",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e6fa911d43ee0f6e6fc4f5a26ff7fe762cdd3e4e3d0606f11c3390dcbda0cce5"
+    },
+    {
+     "from": "2020-06-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "18b9b7d973a57b3b75d77783f2fec559958712a32ad19dd7a79faf66ee83a39b"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "043b8b38ff3e8c702491e455bb41fbd47a822520453dcfc47fef1f473fd54d02"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f7ceb28ff96cb7bc72497d6ce714a9869375f32460799eaa95b1ec4e7c5af89a"
+    },
+    {
+     "from": "2020-07-03",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9a0a3531c5fabc0ba5579e9a0cdfcec3b763d6c8a72b5321913fc43d9db409a7"
+    },
+    {
+     "from": "2020-07-21",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5b28923a0f4aa612c15aa705559208f1580711bffe2cf64f31d960809c6a75d0"
+    },
+    {
+     "from": "2020-09-16",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "3f03484b349ece12159d5c192904623d793e64afa67a04585a5a61799e1ef82c"
+    },
+    {
+     "from": "2020-09-28",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "81326bb57efce7debda516146d593b2b5928a33e5aec580d16489e70aaa82201"
+    },
+    {
+     "from": "2020-10-30",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2aa0ba877cbfe31a56eb8428d7db4437283f2f9ab80f2b1f9355cd83d39eea9d"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9e4a049b4d21c8b5f77c3c6b23fb20feeee0a40e8d9502e5e6c5c72066beb174"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "20929c2b9675cdaf6c8a5a00057f8934e9dd4e98c87bf49a6de2743992185595"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "850d4f07eb084856d98597410ba78ca9b8be05e66008e20f18fc4d66b9cd3db3"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2a4f2cfaa1321df26575a7e4ff74607a8835474f8a974d6772230c8f18c1cf0f"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "336a0583d6c8a164f67e0993c368910d3cc4dd810383dc36ff96676a8309469a"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b566db6f13379653a1ea3d1c55d428bdcd84f0ba3b591aba251ff75bd2563b6e"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "fe9fded2be85536d0c6095af460cd646b3e24a48a2e15fbab7259032e9ea5ec7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Tula Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ca0b71603d49fcc4855d41408b80e05a716ec8f06c8bde01215d2fd77674cdfd"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "13b4d0502a08d23955afa85f6993a70e5b75c3e7b57d4b44d5d448f42df30f65"
+    },
+    {
+     "from": "2021-02-26",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "d6145c810c10c0c4ba6682dc82dec632f11c0600d39c50aa24555b77ea7140b3"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "33038ee1fda79c2c95b5aa83d13e256c02795fffa6f31e68bf286ab701739ea9"
+    },
+    {
+     "from": "2021-05-04",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "24f7d38b24259a9e8dbd8913cd46c32eddf1331e59bd349b1b33e15ebc006741"
+    },
+    {
+     "from": "2021-05-05",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6da739fabe75ef388813344dbe850b6aaa9f5acf1855baedd2850bca2da468fa"
+    },
+    {
+     "from": "2021-05-28",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2f6c0fb9fc0c6d322ea23a42b3647aec1827d7196cf73e20c5319b0c291e00a0"
+    },
+    {
+     "from": "2021-06-21",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "a06872e43643fd9ca455b9b14e0476ac57b870eb6c22868811f73cedfddc63cd"
+    },
+    {
+     "from": "2021-06-23",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c9a15c1cb266d262f299872e7069210cbb396e1d1ed2b0af8b294d832c3e7fa2"
+    },
+    {
+     "from": "2021-07-21",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "a57dc5d53558924436640ca917781bce3070311aa4cdf06ce78833bd5adbf932"
+    },
+    {
+     "from": "2021-07-22",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5e8ff8400ffe3d7062442d06355f9aea3a5a44277c455bf480d67ee0d56b0c61"
+    },
+    {
+     "from": "2021-07-23",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1ef60ee1abed5833d766c04d763a15d655e80e44c93c533d786a9b63b02c108c"
+    },
+    {
+     "from": "2021-07-28",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f196286c26b3177ef7484bea53491ac0052cf7a64ce889308ef02b26cb447ef7"
+    },
+    {
+     "from": "2021-09-27",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "10788c752fec45d1fcbc5e68cd39d3eb9fd365535e422f61c6ffda941bcdbc21"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5e7edea85c571736de0a49f88051b84a2714124519bc3c5a5db4b7cc2805bfe7"
+    },
+    {
+     "from": "2021-11-26",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "00fd415d91eb285b084afc0ab4ec5d5146d2cdeee26e682009338c2cddeca0b6"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b5f495f6af1f95657af7ff9caa19d4aa5d52ed568468bd5f9e0104413cd26004"
+    },
+    {
+     "from": "2021-12-22",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "08139e0468fc8bb79fedcbe985be2879cd5ede8327149c97fa628e7ee7245f18"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Tula Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "21bd854c64292db161e23c9ffe59ac0d5248b1f87d3178703c96ae1425400a1a"
+    },
+    {
+     "from": "2022-02-25",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "b31d73294b189c54a57bd8b712b782e46984c6552fcf948fbf0208c701135eaa"
+    },
+    {
+     "from": "2022-04-08",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "a214bcd79f0b361abff2366f0b7c00d15c424fb96aadf4c2a5c7ef5c6d1708d6"
+    },
+    {
+     "from": "2022-05-05",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e46627b24950cdb746dae7f5561d9ccbef98703bb9859e9b727f0b68c4cb828e"
+    },
+    {
+     "from": "2022-05-27",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "71131afd20aefdba34448dbfd4f4bc0551688345ca19abe2f2502337d9191569"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4ecd762459f104d1efac536c5616e5f36bbc550d72a90bf41b55a9ad1a59cbb5"
+    },
+    {
+     "from": "2022-07-05",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "88e5dab2eebd2f0b07857634dcbadae25ad25f4571d44330c16cee1ce67720a1"
+    },
+    {
+     "from": "2022-07-20",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c57751475a09cc33977f96351c3f13fced4ef51be2c78691699628bf0c540a07"
+    },
+    {
+     "from": "2022-09-30",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8c6897a0b80fc2fd9893e47d3c11cc1ad7790514fead753c026bbff4406f64ef"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f68bae840ba58eeb425d3ec1c11a5168d5975ed716ffbbcd7c32d2bc10f66d46"
+    },
+    {
+     "from": "2022-10-31",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7e7c377c9783e8d743963f46ff2f27c2ff1eda88f211978ac30c2d2c55165df7"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8bbe47b81cbb5184520aa5b7ab5373f1aa33c90e4828792bb6be00880a2e2056"
+    },
+    {
+     "from": "2022-12-23",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6195699551a2df76a77b0f10101b4d02f7a3aa2d28bbbc8191711a00d5b060a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Tula Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "0a54dce883a65bee5b5ce1bed62095308416ab8d167ef1ad40c938ca0d854f51"
+    },
+    {
+     "from": "2023-02-06",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "3ca192bfb2ffe9da0182d2640a5ccae463ba93656bf9282bbfd3b57ee3725386"
+    },
+    {
+     "from": "2023-02-09",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "09be44d202b8423cd0d1003f3d1b7505a433cf36fc6aa3711b5a187e477bd0cc"
+    },
+    {
+     "from": "2023-02-17",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c2e27777a1aa600e11a54d852d3188bfce02f09fae59aa11111c224dc13643fa"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6416b0b589bc7135bffc6835d8989d9e22bc88d67b1fe7365099c6cb65767b51"
+    },
+    {
+     "from": "2023-03-28",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "13c87902f39ba1c0ff3c7dc7690d2a94f9ee70cd4b4d85c8a8833ae88be584b7"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "345a0034bdde4f42f94bb86d7219ef2a1081bca4ac9f29fcb919500a1997a1f9"
+    },
+    {
+     "from": "2023-05-26",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1fd30bc61fa1b85fa85e04ace03eff85a8ab2be72eb49989d2c8d465267bea3d"
+    },
+    {
+     "from": "2023-07-07",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "86f186c292045211cd350fdf7ea0e73bd96f8fe04fca98cda838b6f3ee40d748"
+    },
+    {
+     "from": "2023-07-25",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "59e0de20263b6117f8554eeab166eb7855ce5e420b8201971efa137f9d0b8582"
+    },
+    {
+     "from": "2023-07-26",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7914c53b07a50be2873f7c781668dcb1c29ff047ab7398c0d5995532da288db8"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e4bc3d44d7dde715e42e79eae00b753de34b82d9adfa835e6ca6a3ccb39f668f"
+    },
+    {
+     "from": "2023-11-01",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "334e7f8017f601835e0f1a3ec79e726959cfb25e94463b63bca22a33039cb8d8"
+    },
+    {
+     "from": "2023-11-02",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f4ec8fc17a2d59b54a09038a170398d376367f1eedf5fc6d77c34bf536cb52b1"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f92c2ad1c599a6d4dc3ce6a6d1444ffdd2abb3954966aa0411cd8de71974b1a4"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5c6b9f18176bb26616850b6d559f6fde1c6ba30bffa316bfff805ab3224eb0e5"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "e85f761357530166d6edcded39d8f712d2ced774c8ca82dbae38f77e6c7a12d9"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f6c8a63aca4d123bc5db946841064b13fcdfc6a327bcff1e55003347c8ba6021"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Tula Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7df26f4da1227005005968d9feaa7729c0b1b9e67adb589ca018c4a8ed4b8497"
+    },
+    {
+     "from": "2024-01-30",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "8cd9d439919de8f6a98113cf0516ccadbdea2e919e8a4c42814ace24f152629c"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "71d5d3fde1bbe122eb5766f659a18633129c7407eae985b6ab68b6ffef42fb9b"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f7e06ab23281ce63a2c8e4cfcf99e0f41b89071a3c7a20c889751ba0cbebb0ae"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7a2ab16efc2a16e772ae85859fc9253273f3ae72f1e1b38142d866193ba47cab"
+    },
+    {
+     "from": "2024-05-31",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "026f94fa83b71d0a550129a88bdf92195d9371791fe3e05643619e69c9588701"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1f9480b954a091707a671bacc92ae83917ffe8f6d41b7b9cfa1fc6ba0ea1ba3f"
+    },
+    {
+     "from": "2024-07-03",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1b75df094ccd146954070aa3eef371bd00557affbc8690633b4ae5d8db66d80a"
+    },
+    {
+     "from": "2024-07-17",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5a027f3e785019fde447a074869180ee970f13367bb628c9ef48887b9c0052a9"
+    },
+    {
+     "from": "2024-10-10",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "cc0fcaf4d8a5549994651a1c011aeb1ef46f8eca8854f33b25040eecb4863096"
+    },
+    {
+     "from": "2024-10-28",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "05a0e1d1510d8bcca87a9b151330ac79fcbc301092b8e570539ba7f346ef26e3"
+    },
+    {
+     "from": "2024-11-18",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "818516ebcd995f268869fe073cb972bb3a1347dc2c18f8abb122d2a8a1080275"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f3290ff73013e0cf17643e0ce112671aec1f1e6a85c8b7bcc6a6ee51ddc0e0d7"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5821bd02421b7bbd982328da312b95d8e81eafd874bcfafa8974bf9f9fd2a6e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Tula Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2025-02-02",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9730b0ce818b61da9647e8d6bf541fce14e266dc57c6e7b686894b9df7608571"
+    },
+    {
+     "from": "2025-03-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "2c2975136befc3723aa2cb048b2b5436ba815175cae49b16b33fd5e329117f38"
+    },
+    {
+     "from": "2025-03-05",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "16a72a5edd54367485d8f424cffe4485a96df5e7901d4a645ff0080de54b0d58"
+    },
+    {
+     "from": "2025-03-28",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "11225f4982de192d0da68d4e43002c5e956ab3fede123c47df8f1a56269ea78b"
+    },
+    {
+     "from": "2025-05-03",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9dc2981b5b613db2e2da58eaa51196e5c3d91c9ca041801d2978d0bbbb650e04"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "0a216a15cde0d35062e238ca815a4bb13a7f37031a7fcf57416d39f7398068d6"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5a9ebe49b37eeafca746ea0a05a529890c3e06fd9f8f0816dfb494bef1dea1bc"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "cde9a02e6640e86d4744e21fa35a5809bfe2f8131622a5ab5d09f818561bb39c"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "7d23e777fadba8d4c3d22e1a65d5fa7ea152099096fda3485bb91094fc304432"
+    },
+    {
+     "from": "2025-11-05",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "ba0dbdbffefdd6629c65c569a5aaec31ecc8bbc1813e246c05ee562bf0e34d5a"
+    },
+    {
+     "from": "2025-11-18",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "c745698e1626452134dd9ba48e30351a0ec670c367aa18ca0cfa9a4b37193033"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "9671e67e13f05b3a84129d8ddad63efb872c042cab057460472985c89604e625"
+    },
+    {
+     "from": "2025-12-22",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "0fdc94552a7e08e8ecac8d8a68a7a52c1cec8c4ca9bfc6df01138dcec564e684"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Tula Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region71",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "f3e1bf76f3e6cd5dd2a3944912f7f8b0951df3665bc6a7d9d9926dba9c4b4eda"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5a6d005fc19767e09ece856b68cf885f214f0f4a86c1d9d02ec018baca7a5a46"
+    },
+    {
+     "from": "2026-03-31",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "13644f1bd2ede688f304c3da8429850c19a0636b119aa48a8e3766862098e87c"
+    },
+    {
+     "from": "2026-04-27",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "5cdc701b47089defa53f99424dd166bbedd1fc4b548e2e766d1334917ff725b3"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "db676e31e2f968dca1427000f31a02b22d3c3a58e16eaba1b656f1d65302a259"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "6cec4f0fdbe47b2d6a0f7e6f68a1998473408da26430cbecaf466531a2d5ff1d"
+    },
+    {
+     "from": "2026-07-21",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "4b154784cf1486301a865c825eace35867377e35128c97fb44372b29bbc1370f"
+    },
+    {
+     "from": "2026-09-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region71",
+     "sha256": "1853c83b8f15e6a693e58a412717c639bf01d25e6aa5eb7559e2f0ce4ad15d0e"
+    }
+   ]
+  }
+ ]
+}
