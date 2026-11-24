@@ -1,6 +1,6 @@
 # Tula Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 8 versions, from 2026-02-03 (latest in force: 2026-09-29) · <http://publication.pravo.gov.ru/documents/block/region71>
+Законы 2026 · 9 versions, from 2026-02-03 (latest in force: 2026-11-06) · <http://publication.pravo.gov.ru/documents/block/region71>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -76,5 +76,17 @@
 | Закон № 72-ЗТО | [72-zto.md](72-zto.md) | 1 | 2026-09-29 |
 | Закон № 73-ЗТО | [73-zto.md](73-zto.md) | 1 | 2026-09-29 |
 | Закон № 74-ЗТО | [74-zto.md](74-zto.md) | 1 | 2026-09-29 |
+| Закон № 75-ЗТО | [75-zto.md](75-zto.md) | 1 | 2026-11-06 |
+| Закон № 76-ЗТО | [76-zto.md](76-zto.md) | 1 | 2026-11-06 |
+| Закон № 77-ЗТО | [77-zto.md](77-zto.md) | 1 | 2026-11-06 |
+| Закон № 78-ЗТО | [78-zto.md](78-zto.md) | 1 | 2026-11-06 |
+| Закон № 79-ЗТО | [79-zto.md](79-zto.md) | 1 | 2026-11-06 |
 | Закон № 8-ЗТО | [8-zto.md](8-zto.md) | 0 |  |
+| Закон № 80-ЗТО | [80-zto.md](80-zto.md) | 1 | 2026-11-06 |
+| Закон № 81-ЗТО | [81-zto.md](81-zto.md) | 1 | 2026-11-06 |
+| Закон № 82-ЗТО | [82-zto.md](82-zto.md) | 1 | 2026-11-06 |
+| Закон № 83-ЗТО | [83-zto.md](83-zto.md) | 1 | 2026-11-06 |
+| Закон № 84-ЗТО | [84-zto.md](84-zto.md) | 1 | 2026-11-06 |
+| Закон № 85-ЗТО | [85-zto.md](85-zto.md) | 1 | 2026-11-06 |
+| Закон № 86-ЗТО | [86-zto.md](86-zto.md) | 1 | 2026-11-06 |
 | Закон № 9-ЗТО | [9-zto.md](9-zto.md) | 0 |  |
