@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:58:54Z",
+ "generated": "2026-11-25T07:03:10Z",
  "latest": {
   "pravo-tula|russia/tula/acts": {
    "attempt": 1,
@@ -13,42 +13,25 @@
    },
    "census": {
     "checked": 1523,
-    "current": 1511,
+    "current": 1523,
     "gone": 0,
-    "held": 1511,
-    "newest_in_repo": "2026-09-29",
-    "pending": 12,
-    "repo": 1511,
+    "held": 1523,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1523,
     "source_in_scope": 1523
    },
-   "check_id": "ru-pravo-tula-20261124T145707Z",
-   "commits": {
-    "count": 2,
-    "from": "f1e7ddeb21520f3457aa72bf607a8d5c90cef293",
-    "to": "3c2961761fbd546804913f1970162ab1d2269417"
-   },
+   "check_id": "ru-pravo-tula-20261125T064057Z",
+   "commits": null,
    "corpus": "russia/tula/acts",
    "error": null,
-   "finished": "2026-11-24T14:58:54Z",
+   "finished": "2026-11-25T06:41:37Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region71: 1523 law-type documents listed (every page read); 1511 held here; 12 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region71: 1523 law-type documents listed (every page read); 1523 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "7100202611060009",
-     "7100202611060010",
-     "7100202611060011",
-     "7100202611060012",
-     "7100202611060013",
-     "7100202611060014",
-     "7100202611060015",
-     "7100202611060016",
-     "7100202611060017",
-     "7100202611060018",
-     "7100202611060019",
-     "7100202611060020"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -56,39 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7100202611060009",
-     "7100202611060010",
-     "7100202611060011",
-     "7100202611060012",
-     "7100202611060013",
-     "7100202611060014",
-     "7100202611060015",
-     "7100202611060016",
-     "7100202611060017",
-     "7100202611060018",
-     "7100202611060019",
-     "7100202611060020"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1523 law-type documents in block region71; newest published 2026-11-06",
    "source": "pravo-tula",
-   "started": "2026-11-24T14:57:07Z",
+   "started": "2026-11-25T06:40:57Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
