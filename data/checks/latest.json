@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:18Z",
+ "generated": "2026-11-28T06:26:35Z",
  "latest": {
   "pravo-tula|russia/tula/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1523,
     "source_in_scope": 1523
    },
-   "check_id": "ru-pravo-tula-20261127T055738Z",
+   "check_id": "ru-pravo-tula-20261128T060923Z",
    "commits": null,
    "corpus": "russia/tula/acts",
    "error": null,
-   "finished": "2026-11-27T05:58:16Z",
+   "finished": "2026-11-28T06:10:04Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region71: 1523 law-type documents listed (every page read); 1523 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1523 law-type documents in block region71; newest published 2026-11-06",
    "source": "pravo-tula",
-   "started": "2026-11-27T05:57:38Z",
+   "started": "2026-11-28T06:09:23Z",
    "unexplained": 0,
    "update": {
     "parts": []
